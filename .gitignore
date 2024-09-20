@@ -1,0 +1,10 @@
+__pycache__/
+*.pt
+.vscode/
+checkpoints/
+datasets/
+results/
+videos/
+demo_output_videos/
+resource/
+demo/

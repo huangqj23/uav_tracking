@@ -7,5 +7,5 @@ UAV Tracking Project
 | 二维目标追踪 | ![](https://typora-images-1302473945.cos.ap-chengdu.myqcloud.com/typora_images/output.gif) |
 | 二维目标追踪 | ![](https://typora-images-1302473945.cos.ap-chengdu.myqcloud.com/typora_images/output1_512.gif) |
 | 二维目标追踪 | ![](https:/typora-images-1302473945.cos.ap-chengdu.myqcloud.com/typora_images/output1_512.gif) |
-| 二维目标追踪 | ![](https://typora-images-1302473945.cos.ap-chengdu.myqcloud.com/typora_images/output_mot.gif) |
+| 二维目标追踪 | ![](./assets/output_mot.gif) |
 

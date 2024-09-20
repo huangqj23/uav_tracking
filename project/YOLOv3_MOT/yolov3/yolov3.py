@@ -1,9 +1,3 @@
-"""
-YOLOv3 Pytorch
-Module: yolov3.py
-Written by: Rahmad Sadli
-Website : https://machinelearningspace.com
-"""
 import torch
 import torch.nn.functional as nn
 import torch.nn as nn

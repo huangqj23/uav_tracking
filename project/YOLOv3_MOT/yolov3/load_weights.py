@@ -1,9 +1,3 @@
-"""
-YOLOv3 Pytorch
-Module: load_weights.py
-Written by: Rahmad Sadli
-Website : https://machinelearningspace.com
-"""
 
 import torch
 import torch.nn as nn

@@ -1,10 +1,3 @@
-"""
-@Author: Du Yunhao
-@Filename: opts.py
-@Contact: dyh_bupt@163.com
-@Time: 2022/2/28 19:41
-@Discription: opts
-"""
 import json
 import argparse
 from os.path import join

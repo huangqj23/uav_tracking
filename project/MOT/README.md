@@ -1,6 +1,4 @@
 
-This is the accompanying code for Chapter 4 of the ebook entitled:
-"Beginner's Guide to Multi-Object Tracking with Kalman Filter", written by Rahmad Sadli
 
 
 
